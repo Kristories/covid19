@@ -25,8 +25,7 @@ If you discover any security related issues, please email `w.kristories@gmail.co
 ## Credits
 
 - [Wahyu Kristianto](https://github.com/kristories)
-- [All contributors](https://github.com/kristories/covid19
-- /graphs/contributors)
+- [All contributors](https://github.com/kristories/covid19/graphs/contributors)
 
 ## License
 
