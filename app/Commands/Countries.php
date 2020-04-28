@@ -77,7 +77,6 @@ class Countries extends Command
 
             $this->table($headers, $items->toArray());
         } catch (\Exception $e) {
-            dd($e);
             $this->error($e->getMessage());
         }
     }
