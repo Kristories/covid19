@@ -13,14 +13,14 @@ class CountryList extends Command
      *
      * @var string
      */
-    protected $signature = 'country:list';
+    protected $signature = 'cl';
 
     /**
      * The console command description.
      *
      * @var string
      */
-    protected $description = 'Returns all the available countries and provinces, as well as the country slug for per country requests.';
+    protected $description = 'Available countries.';
 
     /**
      * Create a new command instance.
